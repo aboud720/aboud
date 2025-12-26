@@ -1,0 +1,17 @@
+{
+  "name": "bug-demo-app",
+  "version": "1.0.0",
+  "description": "Demo application with bugs to fix",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "bcrypt": "^5.1.1"
+  }
+}
